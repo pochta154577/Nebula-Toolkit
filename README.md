@@ -3,7 +3,7 @@ Smart File Manager &amp; Productivity Toolkit (cross-platform)
 
 # 🌌 Nebula Toolkit
 
-![License](https://img.shields.io/github/license/username/nebula-toolkit)
+
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![Status](https://img.shields.io/badge/status-experimental-orange)
 
