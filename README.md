@@ -21,3 +21,22 @@ Smart File Manager &amp; Productivity Toolkit (cross-platform)
 ---
 
 ## 📂 Structure
+nebula-toolkit/
+├─ docs/ # Documentation
+├─ lab/ # Experimental files
+├─ scripts/ # Automation scripts
+└─ src/ # Source code
+
+
+---
+
+## ⚠️ Disclaimer
+This repository is intended for **research and educational purposes only**.  
+All test files are **safe**, **mock samples**, or **password-protected**.
+
+---
+
+## 🚀 Quick Start
+```bash
+git clone https://github.com/username/nebula-toolkit.git
+cd nebula-toolkit
