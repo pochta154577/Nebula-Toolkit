@@ -38,5 +38,5 @@ All test files are **safe**, **mock samples**, or **password-protected**.
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/username/nebula-toolkit.git
+git clone https://github.com/pochta154577/nebula-toolkit.git
 cd nebula-toolkit
